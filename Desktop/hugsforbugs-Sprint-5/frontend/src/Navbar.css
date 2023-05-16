@@ -1,0 +1,70 @@
+.navbar-nav .nav-item.active .nav-link {
+    background-color: #35475791;
+    color: #000000;
+    font-weight: bold;
+    border-radius: 0.25rem;
+    margin-inline: 2px;
+  }
+  .nav-item.nav-item:hover{
+    background-color: #35475791;
+    font-weight: bold;
+    border-radius: 0.25rem;
+    
+  }
+  .nav-item.active:hover {
+    background-color: transparent;
+   
+  }
+  .navbar{
+    background-color: #223245;
+  }
+  .btn-primary {
+    background-color: #35475791;
+    color: #ffffff;
+    
+  }
+  
+  .btn-primary:hover {
+    background-color:deepskyblue;
+    color: #ffffff;
+  }
+
+.navbar {
+    padding: 10px 20px;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-style: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+  }
+  
+  .navbar-toggler {
+    border: none;
+  }
+  
+  .navbar-toggler-icon {
+    background-color: #000;
+  }
+  
+  .navbar-nav .nav-link {
+    color: #000;
+  }
+  .becomeorganizer_btn{
+    background-color:darkcyan;
+    color: #ffffff;
+    font-weight: bold;
+    border-radius: 50rem;
+    margin-inline:10px;
+    padding: 10px;
+  }
+  .becomeorganizer_btn:hover{
+    background-color: #83b83491;
+    color: #ffffff;
+  }
+
+
+  
+  
+
+  

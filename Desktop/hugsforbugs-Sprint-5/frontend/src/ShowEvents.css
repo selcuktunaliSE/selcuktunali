@@ -1,0 +1,16 @@
+.event-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: 300px;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .event-card {
+    background-color: white;
+    border-radius: 20px;
+    padding: 30px;
+  }
+  body {
+    background-color: rgb(154, 181, 231) !important;
+  }
